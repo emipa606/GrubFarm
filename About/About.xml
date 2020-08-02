@@ -1,16 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Grub Farm (Continued)</name>
-	<packageId>Mlie.GrubFarm</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/GrubFarm</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of Arbees mod for RimWorld 1.1
+  <name>Grub Farm (Continued)</name>
+  <packageId>Mlie.GrubFarm</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/GrubFarm</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of Arbees mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1512695518
 
 Support-chat:
