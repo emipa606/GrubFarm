@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Grub Farm (Continued)</name>
   <packageId>Mlie.GrubFarm</packageId>
@@ -12,27 +12,33 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Arbees mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1512695518
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+Eggnog has made a [url= https://steamcommunity.com/sharedfiles/filedetails/?id=2555747644]Retexture mod[/url] as well
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/GrubFarm][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 Build the perfect home for grubs to thrive. Havest them for yummy yummy protine. Its better than nothing... right?
 
 Grow Insect Meat for your cave colony.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -43,4 +49,3 @@ Grow Insect Meat for your cave colony.
 [/list]
 </description>
 </ModMetaData>
-
