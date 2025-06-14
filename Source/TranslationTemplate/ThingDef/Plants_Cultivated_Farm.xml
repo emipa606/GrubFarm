@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: grub farm -->
   <Plant_GrubFarm.label>grub farm</Plant_GrubFarm.label>
+  <!-- EN: A dark, damp hole covered by rocks and pebbles for grubs to grow under. -->
   <Plant_GrubFarm.description>A dark, damp hole covered by rocks and pebbles for grubs to grow under.</Plant_GrubFarm.description>
 </LanguageData>
