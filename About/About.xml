@@ -12,6 +12,7 @@
     <li>1.4</li>
     <li>1.5</li>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -19,7 +20,7 @@
 Update of Arbees mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1512695518
 
-Eggnog has made a [url= https://steamcommunity.com/sharedfiles/filedetails/?id=2555747644]Retexture mod[/url] as well
+[strike]Eggnog has made a [url= https://steamcommunity.com/sharedfiles/filedetails/?id=2555747644]Retexture mod[/url] as well[/strike] Removed
 
 [img]https://img.litet.net/logos/Notice.png[/img]
 
@@ -52,6 +53,6 @@ Grow Insect Meat for your cave colony.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2018980438][img]https://img.shields.io/github/v/release/emipa606/GrubFarm?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: cave colony</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.1</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2018980438][img]https://img.shields.io/github/v/release/emipa606/GrubFarm?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | cave colony</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.7.0</modVersion>
 </ModMetaData>

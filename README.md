@@ -5,7 +5,7 @@
 Update of Arbees mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1512695518
 
-Eggnog has made a [Retexture mod]( https://steamcommunity.com/sharedfiles/filedetails/?id=2555747644) as well
+~~Eggnog has made a [Retexture mod]( https://steamcommunity.com/sharedfiles/filedetails/?id=2555747644) as well~~ Removed
 
 ![Image](https://img.litet.net/logos/Notice.png)
 	
@@ -30,4 +30,4 @@ Grow Insect Meat for your cave colony.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/GrubFarm?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2018980438) | tags: cave colony
+[![Image](https://img.shields.io/github/v/release/emipa606/GrubFarm?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2018980438) | cave colony
